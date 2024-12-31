@@ -7,8 +7,8 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 ## Table of contents 
 
- - [Planning](Planning)
  - [User Stories](Userstories)
+ - [Planning](Planning)
  - [Aims](Aims)
  - [Wireframes](Wireframes)
  - [Colour Scheme](Colourscheme)
@@ -17,12 +17,11 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 
 
-   ## Planning
-
-
-
    ## User Stories
 
+
+
+   ## Planning
 
 
    ## Aims
