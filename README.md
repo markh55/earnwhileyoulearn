@@ -7,6 +7,8 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 ## Table of contents 
 
+
+ - [languages](Languages) 
  - [User Stories](Userstories)
  - [Planning](Planning)
  - [Aims](Aims)
@@ -41,7 +43,8 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 ![Get in Touch Page](https://github.com/user-attachments/assets/27ae7ede-6c2e-4fce-b60d-72f4a4cd96eb)
 
 
-   ## Colour Scheme
+  ## Colour Scheme
+
 
 
    ## Testing
@@ -49,6 +52,20 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 
    ## DeBugging
+
+
+
+   ## languages
+   * HTML
+   * CSS
+
+   ## Content 
+   *
+   *
+   *
+   *
+
+
 
 
 
