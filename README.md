@@ -8,7 +8,6 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 ## Table of contents 
 
 
- - [languages](Languages) 
  - [User Stories](Userstories)
  - [Planning](Planning)
  - [Aims](Aims)
@@ -16,6 +15,8 @@ My aim for this website is to be inviting and simple to use but also deliver eno
  - [Colour Scheme](Colourscheme)
  - [Testing](Testing)
  - [DeBugging](DeBugging)
+ - [languages](Languages)
+ - [Contents](Contents) 
 
 
 
