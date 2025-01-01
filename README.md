@@ -8,15 +8,15 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 ## Table of contents 
 
 
- - [User Stories](Userstories)
- - [Planning](Planning)
- - [Aims](Aims)
- - [Wireframes](Wireframes)
- - [Colour Scheme](Colourscheme)
- - [Testing](Testing)
- - [DeBugging](DeBugging)
- - [languages](Languages)
- - [Contents](Contents) 
+ - [User Stories](#Userstories)
+ - [Planning](#Planning)
+ - [Aims](#Aims)
+ - [Wireframes](#Wireframes)
+ - [ColourScheme](#Colourscheme)
+ - [Testing](#Testing)
+ - [DeBugging](#DeBugging)
+ - [languages](#Languages)
+ - [Contents](#Contents) 
 
 
 
