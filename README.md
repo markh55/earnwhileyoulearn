@@ -20,7 +20,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 
 
-   ## User Stories
+## User Stories
    
    * As a potential user i would like the site to have a user friendly navigation so anyone can use your site with ease.
    * As a potential user the site needs to have a good selection of available courses that im able to sign up too.
@@ -29,7 +29,7 @@ My aim for this website is to be inviting and simple to use but also deliver eno
    * I would like to have the option to sign up to weekly/monthly newsletters to keep up with all the latest news and what is on offer.
 
 
-   ## Planning
+ ## Planning
 
 Within the planning stage i used the user stories / requests to priorities the importance of each one from most importance to lease, the least important dont mean it wont be avaible it means it will be availible if the time scale lets it, if not it will be implimented in a future update.
 
@@ -46,11 +46,11 @@ The could haves are;
    * A newsletter function
 
 
-   ## Aims
+ ## Aims
 
 
 
-   ## Wireframes
+ ## Wireframes
 
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/adf8551f-032c-4e01-ac36-dc7b3495cda0)
@@ -63,27 +63,27 @@ The could haves are;
 ![Get in Touch Page](https://github.com/user-attachments/assets/27ae7ede-6c2e-4fce-b60d-72f4a4cd96eb)
 
 
-  ## Colour Scheme
+## Colour Scheme
 
 
 
-   ## Testing
+## Testing
 
 
 
-   ## DeBugging
+## DeBugging
 
 
 
-   ## languages
-   * HTML
-   * CSS
+## languages
+* HTML
+* CSS
 
-   ## Content 
-   *
-   *
-   *
-   *
+## Content 
+*
+*
+*
+*
 
 
 
