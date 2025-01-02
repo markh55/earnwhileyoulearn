@@ -75,7 +75,7 @@ The could haves are;
 
 
 
-## languages
+## Languages
 * HTML
 * CSS
 
