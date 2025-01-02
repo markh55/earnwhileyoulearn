@@ -21,7 +21,12 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
 
    ## User Stories
-
+   
+   * As a protentail user i would like the site to have a user friendly navigation so anyone can use your site with ease.
+   * As a protentail user the site needs to have a good selection of available courses that im able to sign up too.
+   * i would like to see a clear but useful contact us form with navigation from the courses page.
+   * When using your site i would like to see images with the courses along with detailed descriptions.
+   * I would like to have the option to sign up to weekly/monthly newsletters to keep up with all the latest news and what is on offer.
 
 
    ## Planning
