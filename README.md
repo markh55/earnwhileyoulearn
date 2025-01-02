@@ -31,6 +31,20 @@ My aim for this website is to be inviting and simple to use but also deliver eno
 
    ## Planning
 
+Within the planning stage i used the user stories / requests to priorities the importance of each one from most importance to lease, the least important dont mean it wont be avaible it means it will be availible if the time scale lets it, if not it will be implimented in a future update.
+
+The must haves are;
+
+   * User friendly navigation
+   * What courses are on offer
+   * description of each course and what it intails
+   * Contact page / button so contact cant be made.
+
+
+The could haves are;
+
+   * A newsletter function
+
 
    ## Aims
 
